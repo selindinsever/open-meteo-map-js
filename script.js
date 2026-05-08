@@ -21,7 +21,7 @@ const translate = {
         desc: "Click on map",
         refresh: "Refresh",
         details: "Details",
-        //DÜZELTME YAPILDI TÜrkçre karakter sorununu önlemek için i ile js kod bloğu ile düzelttim 
+        //DÜZELTME YAPILDI Türkçe karakter sorununu önlemek için i ile js kod bloğu ile düzelttim 
         wind: "Wind",
         direction: "Direction",
         loading: "Loading...",
