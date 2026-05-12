@@ -28,4 +28,4 @@ Lokalizasyon
 
 Teknik Metodoloji
 ---
-Sistemin mimarisi, yüksek performanslı ve düşük gecikmeli veri işleme süreçleri üzerine kurgulanmıştır:
+Sistemin mimarisi, yüksek performanslı ve düşük gecikmeli veri işleme süreçleri üzerine kurgulanmıştır.
